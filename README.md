@@ -25,13 +25,13 @@ Prop your phone up in front of you, raise both hands, and each hand controls a c
 
 ## Screenshots / 游戏画面
 
-| Cover / 封面 | Select a Cat / 选只猫 | Vanity Table / 梳妆台 |
+| Cover / 封面 | Stage Select / 选关 | Select a Cat / 选只猫 |
 | :---: | :---: | :---: |
-| <img src="assets/cover-mobile.png" alt="Mobile Cover" width="220" /> | <img src="assets/cats.png" alt="Cat Picker" width="220" /> | <img src="assets/vanity.png" alt="Vanity Table" width="220" /> |
+| <img src="assets/cover-mobile.png" alt="Mobile Cover" width="220" /> | <img src="assets/select.png" alt="Stage Select" width="220" /> | <img src="assets/cats.png" alt="Cat Picker" width="220" /> |
 
-| Hand Feeding / 接投喂 | Flower Petals / 摘花瓣 | Space Station / 太空站 |
+| Vanity Table / 梳妆台 | Workout Receipt / 结算小票 | Leaderboard / 排行榜 |
 | :---: | :---: | :---: |
-| <img src="assets/feeding.png" alt="Hand Feeding" width="220" /> | <img src="assets/petals.png" alt="Flower Petals" width="220" /> | <img src="assets/space.png" alt="Space Station" width="220" /> |
+| <img src="assets/vanity.png" alt="Vanity Table" width="220" /> | <img src="assets/result.png" alt="Workout Receipt" width="220" /> | <img src="assets/board.png" alt="Leaderboard" width="220" /> |
 
 ---
 
